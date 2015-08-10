@@ -1,0 +1,17 @@
+{
+  "name": "simpleseotool",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Flatlineato/sstool",
+  "authors": [
+    "Flatlineato <iuri.pessina@gmail.com>"
+  ],
+  "description": "Simple Seo Tool",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
